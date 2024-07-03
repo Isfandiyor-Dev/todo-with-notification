@@ -1,0 +1,28 @@
+name: notifications_lesson
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0-321.0.dev
+
+dependencies:
+  cupertino_icons: ^1.0.8
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^17.2.1
+  flutter_timezone: ^2.0.0
+  google_nav_bar: ^5.0.6
+  http: ^1.2.1
+  timezone: ^0.9.4
+  cloud_firestore: ^5.0.2
+  firebase_core: ^3.1.1
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

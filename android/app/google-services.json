@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23135543888",
+    "project_id": "todo-c8220",
+    "storage_bucket": "todo-c8220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23135543888:android:ee196bdc708f557aa3e755",
+        "android_client_info": {
+          "package_name": "com.example.notifications_lesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1wFFYvJ0IUMkvenNemKtq18FFOWakLhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
